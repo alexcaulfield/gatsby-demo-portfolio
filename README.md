@@ -46,7 +46,11 @@ Now start the project with `gatsby develop`
 
 Update `gatsby-config.js` to have the correct title
 
-Create a Google Sheet to pull data from and then follow [these steps](https://www.twilio.com/blog/2017/03/google-spreadsheets-and-javascriptnode-js.html)
+Create a Google Sheet to pull data from 
+It might look like this:
+![](https://imgur.com/OLOxePS)
+
+And then follow [these steps](https://www.twilio.com/blog/2017/03/google-spreadsheets-and-javascriptnode-js.html)
 
 1. Go to the Google APIs Console.
 2. Create a new project.
