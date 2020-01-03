@@ -2,6 +2,8 @@
 
 This tutorial is supposed to walk you through setting up a serverless resume site
 
+### Demo is live at [https://quizzical-torvalds-1345f0.netlify.com/](https://quizzical-torvalds-1345f0.netlify.com/)
+
 ## Setting up the [Gatsby/Semantic UI starter](https://github.com/pretzelhands/gatsby-starter-semantic-ui)
 
 This starter is a bit out of date, so I've added some extra steps to getting set up
@@ -150,5 +152,9 @@ const env_creds = {
   },
 ...
 ``` 
+
+And add this dependency to your `package.json` `dependencies`
+
+`"gatsby-source-google-sheets": "^1.1.1",`
 
 Now you can push your changes to GitHub and Deploy to Netlify (you can store the environment varibles in the Netlify console so they're kept secret)
