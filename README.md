@@ -48,7 +48,7 @@ Update `gatsby-config.js` to have the correct title
 
 Create a Google Sheet to pull data from 
 It might look like this:
-![](https://imgur.com/OLOxePS)
+![Google Sheet Filled Out Example](https://i.imgur.com/OLOxePS.png)
 
 And then follow [these steps](https://www.twilio.com/blog/2017/03/google-spreadsheets-and-javascriptnode-js.html)
 
