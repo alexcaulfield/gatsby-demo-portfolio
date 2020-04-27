@@ -2,7 +2,7 @@
 
 This tutorial is supposed to walk you through setting up a serverless resume site
 
-### Demo is live at [https://quizzical-torvalds-1345f0.netlify.com/](https://quizzical-torvalds-1345f0.netlify.com/)
+### Demo is live [here](https://quizzical-torvalds-1345f0.netlify.app)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fac800a1-e90b-4aca-9bf5-0f2e7b04fbfe/deploy-status)](https://app.netlify.com/sites/quizzical-torvalds-1345f0/deploys)
 
 ## Setting up the [Gatsby/Semantic UI starter](https://github.com/pretzelhands/gatsby-starter-semantic-ui)
